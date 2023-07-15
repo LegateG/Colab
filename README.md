@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LegateG
-- 👀 Interested in cloud systems and cyber security.
-- 🌱 Currently learning data science, business intelligence, networking and data visualisation.
+- 👀 Interested in data science and business intelligence.
+- 🌱 Currently learning more about data science and machine learning.
 - 📫 How to reach me: legate@tuta.io
 
 <!---
